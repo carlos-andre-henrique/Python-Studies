@@ -22,7 +22,7 @@ Para isso vamos usar a função:
 
 # função imprimir
 
-print('Olá, mundo!')
+print('Olá,  mundo!')
 
 """<h1> Entendendo a Estrutura </h1>
 
